@@ -18,15 +18,11 @@ const Home = () => {
               <p className="text-lg xl:text-xl  text-[#EFD97B]">
                 Tel: +54 9 388 577-2940
               </p>
-              <div className="mt-8 md:mt-2 ">
-                <a
-                  href="https://web.whatsapp.com"
-                  target="_blank"
-                  className="bg-green-400 hover:bg-[#00E676] hover:text-sm font-bold text-gray-800  py-2 px-6 w-36 rounded-full shadow-xl shadow-green-800"
-                >
-                  Whatsapp
-                </a>
+              <div className="mt-8 md:mt-2 m-auto hover:transform hover:scale-105">
+              <a aria-label="Chat on WhatsApp" href="https://wa.me/5493885772940"><img alt="Chat on WhatsApp" src="WhatsAppButtonGreenSmall.png" className="shadow-xl shadow-green-800 w-48"/>
+              </a>
               </div>
+              
             </div>
          
           <div className="ring-8 ring-[#2B6771]  rounded-full md:ml-4 lg:ml-0">
