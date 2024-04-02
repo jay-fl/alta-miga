@@ -19,7 +19,7 @@ const Home = () => {
                 Tel: +54 9 388 577-2940
               </p>
               <div className="mt-8 md:mt-2 m-auto hover:transform hover:scale-105">
-              <a aria-label="Chat on WhatsApp" href="https://wa.me/5493885772940"><img alt="Chat on WhatsApp" src="WhatsAppButtonGreenSmall.png" className="shadow-xl shadow-green-800 w-48"/>
+              <a aria-label="Chat on WhatsApp" href="https://wa.me/5493885772940" target="_blank"><img alt="Chat on WhatsApp" src="WhatsAppButtonGreenSmall.png" className="shadow-xl shadow-green-800 w-48"/>
               </a>
               </div>
               
